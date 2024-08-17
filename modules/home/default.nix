@@ -5,7 +5,7 @@
     ++ [(import ./bat.nix)]                       # better cat command
     ++ [(import ./btop.nix)]                      # resouces monitor 
     ++ [(import ./cava.nix)]                      # audio visualizer
-    ++ [(import ./discord.nix)]                   # discord with catppuccin theme
+    # ++ [(import ./discord.nix)]                   # discord with catppuccin theme
     ++ [(import ./floorp/floorp.nix)]             # firefox based browser
     ++ [(import ./fuzzel.nix)]                    # launcher
     ++ [(import ./gaming.nix)]                    # packages related to gaming
@@ -17,7 +17,7 @@
     ++ [(import ./micro.nix)]                     # nano replacement
     ++ [(import ./nvim.nix)]                      # neovim editor
     ++ [(import ./packages.nix)]                  # other packages
-    ++ [(import ./retroarch.nix)]
+    # ++ [(import ./retroarch.nix)]
     ++ [(import ./scripts/scripts.nix)]           # personal scripts
     ++ [(import ./spicetify.nix)]                 # spotify client
     ++ [(import ./starship.nix)]                  # shell prompt
