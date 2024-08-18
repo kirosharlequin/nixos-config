@@ -24,6 +24,7 @@ in
     lazygit
     libreoffice
     nautilus     # file manager
+    neofetch
     nitch                             # systhem fetch util
     nix-prefetch-github
     pipes                             # terminal screensaver
