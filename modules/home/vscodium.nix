@@ -15,6 +15,8 @@
       # OCaml
       ocamllabs.ocaml-platform
 
+      jun-han.auto-close-tag
+
       # Color theme
       catppuccin.catppuccin-vsc
       catppuccin.catppuccin-vsc-icons
