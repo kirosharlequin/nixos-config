@@ -15,7 +15,7 @@
       # OCaml
       ocamllabs.ocaml-platform
 
-      formulamendry.auto-close-tag
+      formulahendry.auto-close-tag
 
       # Color theme
       catppuccin.catppuccin-vsc
