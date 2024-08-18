@@ -18,7 +18,7 @@
       formulahendry.auto-close-tag
       formulahendry.auto-rename-tag
 
-      codium.codium
+      codeium.codeium
 
       dsznajder.es7-react-js-snippets
 
