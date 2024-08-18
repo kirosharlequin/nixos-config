@@ -70,7 +70,7 @@
       "editor.scrollbar.vertical" = "hidden";
       "editor.scrollbar.horizontal" = "hidden";
       "workbench.layoutControl.enabled" = false;
-      "editor.defaultFormatter" = "esbenp.prettier-vscode"
+      "editor.defaultFormatter" = "esbenp.prettier-vscode";
       "editor.mouseWheelZoom" = true;
 
       "C_Cpp.autocompleteAddParentheses" = true;
