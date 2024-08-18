@@ -16,6 +16,17 @@
       ocamllabs.ocaml-platform
 
       formulahendry.auto-close-tag
+      formulahendry.auto-rename-tag
+
+      codium.codium
+
+      dsznajder.es7-react-js-snippets
+
+      dbaeumer.vscode-eslint
+
+      esbenp.prettier-vscode
+
+      bradlc.vscode-tailwindcss
 
       # Color theme
       catppuccin.catppuccin-vsc
@@ -59,7 +70,7 @@
       "editor.scrollbar.vertical" = "hidden";
       "editor.scrollbar.horizontal" = "hidden";
       "workbench.layoutControl.enabled" = false;
-
+      "editor.defaultFormatter" = "esbenp.prettier-vscode"
       "editor.mouseWheelZoom" = true;
 
       "C_Cpp.autocompleteAddParentheses" = true;
