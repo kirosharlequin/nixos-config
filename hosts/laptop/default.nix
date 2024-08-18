@@ -17,6 +17,16 @@
     # cpupower-gui.enable = true;
     power-profiles-daemon.enable = true;
  
+    openssh = {
+    	enable = true;
+    	ports = [22];
+    	settings = {
+      		PasswordAuthentication = true;
+      		AllowUsers = null;
+      		PermitRootLogin = "yes";
+    		};
+  	};
+ 
     upower = {
       enable = true;
       percentageLow = 20;
