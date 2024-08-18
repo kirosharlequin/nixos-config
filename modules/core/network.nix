@@ -1,7 +1,7 @@
 { pkgs, ... }: 
 {
   networking = {
-    hostName = "nixos";
+    hostName = "nixos-server";
     networkmanager.enable = true;
     firewall = {
       enable = true;

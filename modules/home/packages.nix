@@ -41,8 +41,8 @@ in
     wineWowPackages.wayland
 
     # C / C++
-    gcc
-    gnumake
+#    gcc
+ #   gnumake
 
     # Python
     python3
