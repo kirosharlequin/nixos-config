@@ -18,8 +18,6 @@
       formulahendry.auto-close-tag
       formulahendry.auto-rename-tag
 
-      codeium.c
-
       dsznajder.es7-react-js-snippets
 
       dbaeumer.vscode-eslint
