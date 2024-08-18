@@ -17,8 +17,9 @@
 
       formulahendry.auto-close-tag
       formulahendry.auto-rename-tag
-
-      dsznajder.es7-react-js-snippets
+      
+      #codeium
+      #dsznajder.es7-react-js-snippets
 
       dbaeumer.vscode-eslint
 
