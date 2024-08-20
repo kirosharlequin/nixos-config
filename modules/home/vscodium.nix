@@ -21,6 +21,8 @@
       #codeium
       #dsznajder.es7-react-js-snippets
 
+      streetsidesoftware.code-spell-checker
+
       dbaeumer.vscode-eslint
 
       esbenp.prettier-vscode
